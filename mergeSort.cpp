@@ -1,6 +1,6 @@
 /*
  *Write a program for mergesort
- *Time=O(n) & space O(n)
+ *Time=O(nlog(n)) & space O(n)
  */
 #include <cstdio>
 #define IN(a) scanf("%d",&a)
