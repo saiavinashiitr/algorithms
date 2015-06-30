@@ -1,1 +1,1 @@
-This repository contains algorithms with their code implementations
+contains questions and their code implementation on famous algorithms
