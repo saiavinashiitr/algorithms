@@ -1,3 +1,7 @@
+/*
+ *Generate All possible ppermutations of a string
+ */
+ 
 /* utility function that swaps two characters */
 void swap(char &a,char &b){
   char c=a;
