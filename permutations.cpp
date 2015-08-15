@@ -1,3 +1,4 @@
+/* generates all possible permutations of the string */
 void permutations(string s,string temp,vector<string> &v,int l){
   if(l==s.length()){
     v.push_back(temp);
